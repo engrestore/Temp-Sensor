@@ -1,0 +1,29 @@
+# Keil MDK-ARM / uVision build output
+Listings/
+Objects/
+DebugConfig/
+RTE/_Target_1/
+*.axf
+*.o
+*.d
+*.lst
+*.map
+*.bin
+*.hex
+*.crf
+*.htm
+*.dep
+*.iex
+
+# uVision user/workspace state (machine-specific, don't commit)
+*.uvguix.*
+*.uvoptx
+*.uvswspt
+
+# uVision backups
+*.bak
+*~
+
+# OS junk
+Thumbs.db
+.DS_Store
